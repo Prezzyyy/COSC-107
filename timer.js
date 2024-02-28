@@ -1,6 +1,6 @@
  //Set the target for the object sale
  const targetDate = new
-Date('2024-03-25T00:00:00').getTime();
+Date('2024-03-26T00:00:00').getTime();
 
 //Countdown every second
 const timer =setInterval(function() {
