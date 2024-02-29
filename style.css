@@ -1,7 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(119, 119, 119);
-    margin:30px;
+    margin: 30px;;
     padding: 0px;
     text-align: center;
     
@@ -12,7 +12,7 @@ body {
 
 }
 IMG {
-    width: 500px;
+    width: 450px;
     margin: 0;
     padding: 0;
     max-width: 100%;
