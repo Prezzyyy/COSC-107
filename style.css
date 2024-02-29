@@ -13,7 +13,7 @@ body {
 }
 IMG {
     width: 450px;
-    margin: 0;
+    margin:auto;
     padding: 0;
     max-width: 100%;
     max-height: 100%;
