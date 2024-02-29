@@ -35,7 +35,7 @@ IMG {
     }
     @media  screen and (max-width: 600px) {
         body {
-            background-color: lightblue;
+            background-color: rgb(119, 119, 119);
         }
     }
 
